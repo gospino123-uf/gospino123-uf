@@ -724,7 +724,6 @@ _Urgency: Based on time until significant impact_
 - https://codepen.io/pen
 - https://codesandbox.io/s/
 - https://vscode.dev/
-- https://replit.com
 
 </details>
 
