@@ -360,6 +360,8 @@ _Urgency: Based on time until significant impact_
 - [PDF Accessibility from WebAIM](https://webaim.org/techniques/acrobat/acrobat)
 - [Helpful Walkthrough for InDesign Accessibility Tools and Use](https://etsupport.freshdesk.com/support/solutions/articles/4000160733-accessibility-tools-in-adobe-indesign) & [Adobe InDesign Accessibility Documentation](https://www.adobe.com/accessibility/products/indesign.edu.html)
 
+* [Decent Article on Accessibility](https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939)
+
 ### Trainings
 
 - [Access UF Training Sessions](https://training.it.ufl.edu/)<br> _Access some accessibility training through UF_
