@@ -282,6 +282,7 @@ _Urgency: Based on time until significant impact_
 | A | Arc (7 params) | A rx ry x-axis-rotation large-arc-flag sweep-flag x y<br>(or)<br>a rx ry x-axis-rotation large-arc-flag sweep-flag dx dy |
 
 <br><b>Notes:</b>
+
 <ul>
 <li>Uppercase letters are absolute. Lowercase letters are relative.</li>
 <li>Commas and spaces are optional (relatively).</li>
@@ -467,6 +468,7 @@ _Urgency: Based on time until significant impact_
 - [For fun: List of GitHub Markdown emojis](https://gist.github.com/rxaviers/7360908)
 - [Airbnb Readme for JSX Standards](https://github.com/airbnb/javascript#readme)
 - [Understanding Nameservers](https://kinsta.com/knowledgebase/what-is-a-nameserver/)
+- [MDN Web API Documentation](https://developer.mozilla.org/en-US/docs/Web/API)
 
 ### Mobile
 
