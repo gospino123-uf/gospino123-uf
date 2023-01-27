@@ -486,6 +486,7 @@ _Urgency: Based on time until significant impact_
 
 ### Possible Future Resources
 
+- [deno and npm: Node Compatibility Library](https://stackoverflow.com/questions/61821038/how-to-use-npm-module-in-deno)
 - [Input w RegEx and ReactJS](https://www.tutorialspoint.com/regex-in-reactjs)
 - [SQLite Installation - Mac](https://www.dev2qa.com/how-to-install-sqlite3-on-mac/)
 - [SQLite Documentation/Download](https://www.sqlite.org/about.html)
