@@ -340,7 +340,8 @@ _Urgency: Based on time until significant impact_
 
 - [Windows Narrator Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/appendix-b-narrator-keyboard-commands-and-touch-gestures-8bdab3f4-b3e9-4554-7f28-8b15bd37410a)<br> _Narrator keyboard commands and touch gestures page via Windows Support_
 - [Cross Browser Environments and Screenreaders](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Accessibility#screenreader_testing)<br> _Considerations for accessibility-first development and screenreaders_
-- [PDF Accessibility](https://webaim.org/techniques/acrobat/acrobat)
+- [PDF Accessibility from WebAIM](https://webaim.org/techniques/acrobat/acrobat)
+- [Helpful Walkthrough for InDesign Accessibility Tools and Use](https://etsupport.freshdesk.com/support/solutions/articles/4000160733-accessibility-tools-in-adobe-indesign)
 
 #### Trainings
 
