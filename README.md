@@ -336,6 +336,7 @@ _Urgency: Based on time until significant impact_
 - [Chrome Color Contrast Analyzer](https://accessibility.oit.ncsu.edu/it-accessibility-at-nc-state/developers/tools/color-contrast-analyzer-for-chrome/)<br> _Extension with explanation on use_
 - [Color Blindness Filter Checker](https://www.toptal.com/designers/colorfilter/)<br> _Check ADA, CTA effectiveness and Gradient use_
 - [Web Accessibility Compliance Consultants Blog](https://www.accessibility.works/blog/)
+- [Great Color Branding Guide from UCLA](https://brand.ucla.edu/identity/colors)
 
 #### Screen Readers
 
