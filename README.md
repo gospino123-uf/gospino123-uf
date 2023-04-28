@@ -408,6 +408,7 @@ _Urgency: Based on time until significant impact_
 - [Lo-fi Wireframe Kit - Figma](https://www.lofiwireframekit.com/?utm_source=An+Event+Apart+Mailing+List&utm_campaign=9010a52ba8-quickclicks-august-23&utm_medium=email&utm_term=0_26aac3d902-9010a52ba8-87358573&mc_cid=9010a52ba8&mc_eid=382b884c5d)
 - [Future: Creative Asset Review Tool](https://govisually.com/)
 - [Text Spacing and Accessibility](https://www.w3.org/WAI/WCAG21/Understanding/text-spacing.html)
+- [Wireframes in XD](https://www.adobe.com/products/xd/learn/design/productivity/how-to-wireframe-xd.html)
 </details>
 
 #### Grace Recommendations
@@ -1098,7 +1099,8 @@ Padding/Margin/Layout
 - Time Approvals -> Should be completed before EOD Thursdays
 
 ## Phones
-* [Cisco IP Phone 7965](https://www.uvm.edu/sites/default/files/Telecommunications-and-Network-Services/7965-CiscoQuickstartGuide-2020.pdf)
+
+- [Cisco IP Phone 7965](https://www.uvm.edu/sites/default/files/Telecommunications-and-Network-Services/7965-CiscoQuickstartGuide-2020.pdf)
 
 <br> 
 <br>
