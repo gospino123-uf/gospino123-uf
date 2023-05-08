@@ -524,6 +524,7 @@ _Urgency: Based on time until significant impact_
 - [Custom Reporting](https://www.socialmediaexaminer.com/how-to-create-custom-reports-in-google-analytics/)
 - [Tracking Device Orientation](https://analytical42.com/2016/track-device-orientation-changes-google-analytics/)
 - [Google Analytics Alternative: Matomo (100% data ownership)](https://matomo.org/)
+- [GitLab - DevSecOps Platform: Alternative to GitHub](https://about.gitlab.com/)
 
 ### Practice
 
