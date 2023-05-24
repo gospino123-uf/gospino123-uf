@@ -181,18 +181,20 @@
 
 ## Shortcuts :shipit:
 
-|                Windows                |            Web Browser             |                       Xd                        |                            Zoom                            |                                         VS Code                                         |
-| :-----------------------------------: | :--------------------------------: | :---------------------------------------------: | :--------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
-|   Screen Record<br> `Win + Alt + R`   | Recover Tab<br> `Ctrl + Shift + T` |    Scroll Horizontally<br> `Shift + Scroll`     | Hide Bar (for remote IT help)<br> `Ctrl + Alt + Shift + H` | Open all files/folders from current directory in VS Code from Command Line<br> `code .` |
-| Screen Capture<br> `Win + Shift + S`  |                                    | Select items over area<br> `Shift + Click/Drag` |              Microphone Toggle<br> `Alt + A`               |                                                                                         |
-| Narrator(SR)<br> `Win + Ctrl + Enter` |                                    |                                                 |             Share Screen Prompt<br> `Alt + S`              |                                                                                         |
+|                                                   Windows                                                   |            Web Browser             |                       Xd                        |                            Zoom                            |                                         VS Code                                         |
+| :---------------------------------------------------------------------------------------------------------: | :--------------------------------: | :---------------------------------------------: | :--------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
+|                                      Screen Record<br> `Win + Alt + R`                                      | Recover Tab<br> `Ctrl + Shift + T` |    Scroll Horizontally<br> `Shift + Scroll`     | Hide Bar (for remote IT help)<br> `Ctrl + Alt + Shift + H` | Open all files/folders from current directory in VS Code from Command Line<br> `code .` |
+|                                    Screen Capture<br> `Win + Shift + S`                                     |                                    | Select items over area<br> `Shift + Click/Drag` |              Microphone Toggle<br> `Alt + A`               |                                                                                         |
+|                                    Narrator(SR)<br> `Win + Ctrl + Enter`                                    |                                    |                                                 |             Share Screen Prompt<br> `Alt + S`              |                                                                                         |
+| Move Window<br>Using Keyboard<br>1.`Alt + Space`<br>2.`M`<br>3.`Arrow Keys`<br>4.`Enter/Return` to finalize |                                    |                                                 |                                                            |                                                                                         |
 
 <strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
 
 ### JS Bookmarkets
-* `javascript: document.designMode="on"; void 0;` - Lets everything become editable. Click and type.
-* `javascript: document.querySelectorAll("*").forEach(element => element.style.background="rgb(0 0 0 / 10%)");` - Check bounds and distance b/w elements
-* `javascript: document.querySelector("SELECTOR").click();` - Customizable: Activate event quickly
+
+- `javascript: document.designMode="on"; void 0;` - Lets everything become editable. Click and type.
+- `javascript: document.querySelectorAll("*").forEach(element => element.style.background="rgb(0 0 0 / 10%)");` - Check bounds and distance b/w elements
+- `javascript: document.querySelector("SELECTOR").click();` - Customizable: Activate event quickly
 
 ## ITSM :chart_with_upwards_trend: Standards
 
