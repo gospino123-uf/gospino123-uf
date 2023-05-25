@@ -733,12 +733,18 @@ Git (WIP)
 - [Merging using --no-ff](https://stackoverflow.com/questions/9069061/what-effect-does-the-no-ff-flag-have-for-git-merge#:~:text=The%20%2D%2Dno%2Dff%20flag,point%20at%20the%20incoming%20commit.)
 </details>
 
-- For accidental merges done on local and NOT pushed:
+* For accidental merges done on local and NOT pushed:
   - git reset --merge HEAD~1 (go back one commit on current branch)
   - OR
   - git fetch --all (gather all changes)
   - git reset --hard origin/master (go back to current place/commit on origin/master)
-- Between git fetch and git pull, git fetch is the safe way to check out what is happening in the remote repo
+* Between git fetch and git pull, git fetch is the safe way to check out what is happening in the remote repo
+
+* [Git File Sync Issue Troubleshooting](https://stackoverflow.com/questions/50335447/git-says-there-are-changes-but-there-are-none)
+  - `git rev-parse HEAD` - Check current commit hash
+  - `git ls-tree -r <commit-hash>` - Check ALL files associated with that particular commit
+  - `git update-index --assume-unchanged` - Checks index of what you are building into your next commit (starts off as fresh and not different from previous commit) \* This is the "index copy", which can be overwritten, unlike the "commit copy" of the file(s)
+  - You essentially have three different copies of the same file as a norm: _HEAD, index, and work-tree_
 
 Branching Procedures
 
