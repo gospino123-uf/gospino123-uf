@@ -450,6 +450,7 @@ _Urgency: Based on time until significant impact_
 * [Image Optimization Perspective](https://www.jimdo.com/blog/optimize-website-images-for-better-design-seo/)<br> _Info on optimizing images for web_
 * [Image Responsive Rendering](https://www.dofactory.com/html/img/sizes)
 * [Git Stash Explained](https://www.freecodecamp.org/news/git-stash-explained/)<br> _Quick code/example on stash use_ 
+* [Remove Git Branches not on Remote](https://stackoverflow.com/posts/59912825/revisions)
 * [Reset and sync local repository](https://www.ocpsoft.org/tutorials/git/reset-and-sync-local-respository-with-remote-branch/)
 * [Campaign URL Builder](https://ga-dev-tools.web.app/campaign-url-builder/)
 * [QR Code Generator](https://www.qrcode-monkey.com/)
