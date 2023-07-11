@@ -10,7 +10,8 @@
 - [ITSM Standards](#itsm-chart_with_upwards_trend-standards)
 - [Asana Tracking Standards](#asana-)
 - [Personal UX Standards](#personal--ux-standards)
-- [SVG](#svg-art) (WIP\*\*)
+- [SVG](#svg-art)
+- [Web Accessibility](#web-accessibility)
 - [Helpful Links](#helpful-links) (WIP \*\*)
 - [Grace Recommendations](#grace-recommendations)
 - [Purpose of Meetings](#purpose-of-meetings)
@@ -323,17 +324,15 @@ _Urgency: Based on time until significant impact_
 
 <strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
 
-## Helpful Links
-
-### Web Accessibility
+## Web Accessibility
 
 [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/)
 
-#### WCAG for Designers Infographic
+### WCAG for Designers Infographic
 
 <a href="http://webaim.org/resources/designers/"><img src="http://webaim.org/resources/designers/media/designers.svg" alt="Web Accessibility for Designers infographic with link to text version at WebAIM.org"></a>
 
-#### Colors
+### Colors
 
 - [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)<br> _Manual checks for color contrast issues_
   - [JSON Color Checker for #FFF White on #07317B Dark Blue](https://webaim.org/resources/contrastchecker/?fcolor=FFFFFF&bcolor=07317B&api)<br> _**UF Blue**_
@@ -345,19 +344,19 @@ _Urgency: Based on time until significant impact_
 - [Web Accessibility Compliance Consultants Blog](https://www.accessibility.works/blog/)
 - [Great Color Branding Guide from UCLA](https://brand.ucla.edu/identity/colors)
 
-#### Screen Readers
+### Screen Readers
 
 - [Windows Narrator Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/appendix-b-narrator-keyboard-commands-and-touch-gestures-8bdab3f4-b3e9-4554-7f28-8b15bd37410a)<br> _Narrator keyboard commands and touch gestures page via Windows Support_
 - [Cross Browser Environments and Screenreaders](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Accessibility#screenreader_testing)<br> _Considerations for accessibility-first development and screenreaders_
 - [PDF Accessibility from WebAIM](https://webaim.org/techniques/acrobat/acrobat)
 - [Helpful Walkthrough for InDesign Accessibility Tools and Use](https://etsupport.freshdesk.com/support/solutions/articles/4000160733-accessibility-tools-in-adobe-indesign) & [Adobe InDesign Accessibility Documentation](https://www.adobe.com/accessibility/products/indesign.edu.html)
 
-#### Trainings
+### Trainings
 
 - [Access UF Training Sessions](https://training.it.ufl.edu/)<br> _Access some accessibility training through UF_
 - [Training Ideas for Accessibility at UC based on Job Filters](https://accessibility.uci.edu/information-technology/training.php)<br> _Access categories based on job to preview directions of study_
 
-#### Further Reading
+### Further Reading
 
 - [Beta ADA.gov Website](https://beta.ada.gov/resources/web-guidance/)<br> _Official Beta for ADA linking to extra resources_
 - [Web Accessibility Under Title II of the ADA](https://www.ada.gov/pcatoolkit/chap5toolkit.htm)<br> _ADA State and Local Toolkit_
@@ -373,6 +372,8 @@ _Urgency: Based on time until significant impact_
 <details><summary>Key Component: <strong>Action Plan</strong></summary><h1>Developing an Action Plan For Providing Accessible Websites</h1><p>Now you know that some types of content and format on webpages can pose barriers for people with disabilities. The next steps are to develop an action plan to fix web content that is currently inaccessible and implement procedures to ensure that all new and modified web content is accessible. The website accessibility checklist included in this section helps you assess what needs to be done.</p><p>A well-designed action plan would include the following steps:</p>
      <ol style="margin-left: auto; width: 50vw; "><li>Establish, implement, and post online a policy that your webpages will be accessible and create a process for implementation.</li><li>Ensure that all new and modified webpages and content are accessible.<ul><li>Check the HTML of all new webpages. Make sure that accessible coding is used.</li><li>Make sure that websites are designed so they can be displayed using the color and font settings of each visitor’s browser and operating system.</li><li>If images are used, including photos, graphics, scanned images, or image maps, make sure to include a text equivalent, by adding “alt” tags or long descriptions, for each.</li><li>If you use online forms and tables, make those elements accessible by labeling each control (including buttons, check boxes, drop-down menus, and text fields) with a descriptive HTML tag.</li><li>When posting documents on the website, always provide them in HTML or a text-based format (even if you are also providing them in another format, such as PDF).</li></ul><li>Develop a plan for making your existing web content accessible. Describe your plan on an accessible webpage, and encourage input on how accessibility can be improved. Let visitors to your website know about the standards or guidelines that you are using to make your website accessible. When setting timeframes for accessibility modifications to your website, make more popular webpages a priority.</li><li>When updating webpages, remember to ensure that updates are accessible. For example, when images change, the text equivalents in “alt” tags and long descriptions need to be changed so they match the new images.</li><li>Ensure that in-house staff and contractors responsible for webpage and content development are properly trained. Distribute the Department of Justice technical assistance document “Accessibility of State and Local Government Websites to People with Disabilities” to these in-house staff and contractors on an annual basis as a reminder. This technical assistance document is available on the ADA Home Page at www.ada.gov.</li><li>Provide a way for visitors to request accessible information or services by posting a telephone number or email address on your home page. Establish procedures that ensure a quick response to users with disabilities who are trying to obtain information or services in this way.</li><li>Periodically enlist disability groups to test your pages for ease of use; use the feedback they provide to increase the accessibility of your website.</li><li>Ensure that there are alternative ways for people with disabilities to access the information and services that are provided on your website. Remember, some people may not have, or be able to use, a computer.</li></ol>
 </details>
+
+## Helpful Links
 
 <hr>
 
