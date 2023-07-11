@@ -503,6 +503,7 @@ _Urgency: Based on time until significant impact_
 - [Airbnb Readme for JSX Standards](https://github.com/airbnb/javascript#readme)
 - [Understanding Nameservers](https://kinsta.com/knowledgebase/what-is-a-nameserver/)
 - [MDN Web API Documentation](https://developer.mozilla.org/en-US/docs/Web/API)
+- [Bubbling/Capturing Explained](https://www.geeksforgeeks.org/what-is-event-bubbling-and-event-capturing-in-javascript/)
 
 ### Mobile
 
