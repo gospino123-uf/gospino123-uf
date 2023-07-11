@@ -296,7 +296,6 @@ _Urgency: Based on time until significant impact_
 | A | Arc (7 params) | A rx ry x-axis-rotation large-arc-flag sweep-flag x y<br>(or)<br>a rx ry x-axis-rotation large-arc-flag sweep-flag dx dy |
 
 <br><b>Notes:</b>
-
 <ul>
 <li>Uppercase letters are absolute. Lowercase letters are relative.</li>
 <li>Commas and spaces are optional (relatively).</li>
@@ -374,6 +373,151 @@ _Urgency: Based on time until significant impact_
 </details>
 
 <strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
+
+ <details><summary><h2>UX Design Course Notes</h2></summary>
+  <section><img src="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/7r-T1J09Sy6_k9SdPbsuXA_98483f0b053e4b7696bd9f02c59b3fdd_Screen-Shot-2021-03-02-at-2.05.20-PM.png?expiry=1667692800000&hmac=bDqGqL1PxpZhI-vuuCHgc5qjcU1miqMgPkGD3GaeCus" style="width: 70%;" alt="Product Development Life Cycle: Brainstorm > Define > Design > Test > Launch > Repeat">
+  <h2>Characteristics of a Good UX</h2>
+  <p>
+   <ul>
+    <li>Usable: it means the design, structure, and purpose of the product is clear and easy to use. As you evaluate a product for usability, you can ask questions like: Is everything in the design easy to find? Is the design’s functionality easy to understand? Can users accomplish specific tasks within the design?</li>
+    <li>Equitable: it means a design is helpful to people with diverse abilities and backgrounds. In other words, the product’s design addresses the needs of a diverse audience and ensures a high-quality experience is delivered to all users regardless of background, gender, race, or ability. Equity means providing people with the tools they need to accomplish their goals and support improved quality of life. Are the needs of a diverse group of users considered? Does the product’s design address the needs of traditionally underrepresented and excluded groups?</li>
+    <li>Enjoyable: it means the design delights the user. The design reflects what the user may be thinking or feeling and creates a positive connection with them. Are there aspects of the design that consider the user’s feelings?  Does the design inspire delight in the user? Does the design keep the user engaged throughout their experience?</li>
+    <li>Useful: that means it solves user problems. In other words, the design intentionally solves a user problem that the designer has identified. It’s important to note that, while similar, useful and usable have different meanings. Does the design add value to the user’s experience? Does the design solve a problem for the user? Does the design help the user achieve a specific goal?</li>
+   </ul>
+   <dl>
+    <dt>Assets:</dt><dd>Everything from the text and images to the design specifications, like font style, color, size, and spacing</dd>
+    <dt>Information architecture:</dt><dd> The framework of a website or how it’s organized, categorized, and structured</dd>
+    <dt>Prototype:</dt><dd>An early model of a product that demonstrates functionality</dd>
+    <dt>UX research:</dt><dd>Understand users and learn about their backgrounds, demographics, motivations, pain points, emotions, and life goals</dd>
+    <dt>Wireframe:</dt><dd>An outline or a sketch of a product or a screen</dd>
+   </dl>
+  </p>
+  <p>
+   <a href="https://design.google/library/good-design/">Article about Good Design</a>
+  </p></section>
+  <section><h3>Get to Know the User</h3>
+   <h4>Questions to ask about users:</h4>
+   <p>
+    <ul>
+     <li>Do my users have impairments or disabilities to consider–whether temporary, situational, or permanent?</li>
+     <li>How familiar are my users with technology?</li>
+     <li>How are my users accessing the product or service?</li>
+     <li>Where and when are my users accessing the product or service?</li>
+     <li>Have I considered all my potential users?</li>
+    </ul>
+   </p>
+   <p><a href="https://careerfoundry.com/en/blog/ux-design/the-importance-of-user-research-and-how-to-do-it/">What is user research, and what's its purpose?</a></p>
+   <h4>Designing Cross-Platform Experiences</h4>
+   <ul>
+    <li>
+    <p>A platform is the medium that users experience your product on. Some common platforms are:</p>
+    <ul>
+     <li>Desktop computers</li>
+     <li>Laptop computers</li>
+     <li>Mobile phones</li>
+     <li>Tablets</li>
+     <li>Wearables, like smart watches</li>
+     <li>TVs</li>
+     <li>Smart displays</li>
+    </ul>
+    </li>
+    <li>Concerns for these experiences would be Screen Size, Interaction, Content layout and Functionality</li>
+   </ul>
+  </section>
+  <section class="designSprints week3">
+  <article>
+  <h4>Terms</h4>
+    <dl>
+     <dt>Accessibility:</dt><dd>The design of products, devices, services, or environments for people with disabilities</dd>
+     <dt>Alternative text (alt text):</dt><dd>Text that helps translate something visual, such as an image or graph, into a description that can be read by screen readers</dd>
+     <dt>Brand Identity:</dt><dd>The visual appearance and voice of a company</dd>
+     <dt>Call-to-action (CTA):</dt><dd>A visual prompt that tells the user to take action, like to click a button</dd>
+     <dt>Color modification:</dt><dd>Features that increase the contrast of colors on a screen, like high-contrast mode or dark mode</dd>
+     <dt>Design Sprint:</dt><dd>A time-bound process, with five phases typically spread over five full 8-hour days. The goal of design sprints is to answer critical business questions through designing, prototyping, and testing ideas with users. Are there many potential solutions to your design challenge? Does a design challenge require people from cross-functional teams to weigh in? Is the design challenge's scope wide enough for a sprint?</dd>
+     <dt>Design Thinking:</dt><dd>A UX design framework that focuses on the user throughout all five phases: empathize, define, ideate, prototype, and test.</dd>
+     <dt>Sprint Brief:</dt><dd>A document that you share with all your attendees to help them prepare for the sprint</dd>
+    </dl>
+  </article>
+  <article>
+   <h4>Five phases of design sprints</h4>
+   <p>Understand > Ideate > Decide > Prototype > Test</p>
+   <p>Each phase lasts a day</p>
+   <p>Resource: <a href="https://designsprintkit.withgoogle.com/">Google Design Sprint Kit</a></p>
+  </article>
+  <article>
+   <h4>Plan Design Sprints</h4>
+   <p>User research > Call in the experts > Find the right space > Gather supplies > Establish sprint rules > Plan introductions > Post-sprint planning</p>
+  </article>
+  <article>
+   <h4>Sprint Brief</h4>
+   <p>A sprint brief is shared with attendees and includes the following:</p>
+   <ul>
+    <li>
+     <p>Sprint challenge/Challenge item</p>
+     <ul>
+      <li>What is the challenge that you want to solve in the sprint?</li>
+      <li>
+       <p>Four things that make a great challenge:</p>
+       <ul>
+        <li>Challenge is something real the team needs to deliver</li>
+        <li>It's stated in an inspiring way - something to solve for</li>
+        <li>It's clear/concise</li>
+        <li>It includes a time frame</li>
+       </ul>
+      </li>
+     </ul>
+    </li>
+    <li><p>Key Deliverables</p><p>A few tips for deliverables</p>
+     <ul>
+      <li>Aim for the highest quality deliverables possible. Polished digital work, videos, and interactive prototypes are better than sketches.</li>
+      <li>List all platforms that need to be designed for - e.g., web, mobile, tablet/physical product + website/environment</li>
+     </ul>
+    </li>
+    <li><p>Logistics</p>
+     <ul>
+      <li>Where?</li>
+      <li>When?</li>
+      <li>Who? (list at end of doc - bookmark)</li>
+      <li>Sprint Leader (established before brief created)</li>
+     </ul>
+    </li>
+    <li>Approvers: People who sign off before launch (ex. internal stakeholders, etc.)</li>
+    <li><p>Resources:</p>
+     <ul>
+      <li>For short term sprints: Assignment development team, if any (ex. engineering team)</li>
+      <li>For long-term / vision sprints: Plan to secure resources
+     </ul>
+    </li>
+    <li><p>Project Overview</p>
+     <ol>
+      <li>Current state of project - what's been created already?</li>
+      <li>Roadblocks - what stands in our way?</li>
+      <li>Early wins, if any. - Has our team demonstrated any wins or learnings in the space already?</li>
+      <li>Estimated launch plan - when is projected launch for piece being designed? What is this likely to look like at launch? (Include list in challenge statment as well)</li>
+     </ol>
+    </li>
+    <li>5 Day Schedule: Specific hour by hour even to the 5 minute increment and should include break times</li>
+   </ul>
+  </article>
+  </section>
+  <h2>Define Research Goals / Questions</h2>
+  <p>
+    <ol><li>You should have a prompt that guides your research - i.e. Sharpen prompt. Think through your audience and identify their unique needs/problems and how your product might solve these problems. Therefore, assure they are clear and focused on the problem your portfolio project is aiming to solve. <strong>You should have 2-5 research goals drafted</strong>.</li><li>Define your target audience: Include a diverse but targeted group to get the best data. <strong>Note 3-6 different characteristics</strong>. Think about demographics like location, age and career.</li><li>Write interview questions: These questions are the foundation for feedback later on. These can be adjusted as the portfolio project progresses. <strong>Draft 4-7 questions and be sure to follow best practices and avoid biases</strong>.</li></ol></p>
+ 
+ <h3>Build Empathy</h3>
+ <p>
+  Use questionnaire or some form of gathering information to acquire data on pain points and interests of target audience.
+ </p>
+ 
+ <h3>Create Personas</h3>
+ <p>
+    <ol>
+     <li>Understand the project scenario and customer types.</li>
+     <li>Create personas based on a combination of attributes from a group of users with similar needs. Personas should be representative of key user groups.</li>
+     <li>Consider the following while creating personas<ol><li><strong>Demographic information:</strong> Did the demographic information match the persona characteristics given in the scenario?</li><li><strong>Quote:</strong> Were you able to imagine a quote that is relevant to the persona and the background you’ve built for them?</li><li><strong>Goals/frustrations:</strong> Were you able to align the goals and frustrations with the persona and the activity scenario?</li><li><strong>Brief story/scenario:</strong> Were you able to give more information about the persona, tying in their goals and frustrations, as well as their quote?</li><li><strong>Image:</strong> Did you include a picture or avatar representing the personas for your activity?</li></ol></li>
+    </ol>
+ </p>
+ </details>
 
 ## Helpful Links
 
@@ -738,14 +882,14 @@ Git (WIP)
 - [Merging using --no-ff](https://stackoverflow.com/questions/9069061/what-effect-does-the-no-ff-flag-have-for-git-merge#:~:text=The%20%2D%2Dno%2Dff%20flag,point%20at%20the%20incoming%20commit.)
 </details>
 
-* For accidental merges done on local and NOT pushed:
+- For accidental merges done on local and NOT pushed:
   - git reset --merge HEAD~1 (go back one commit on current branch)
   - OR
   - git fetch --all (gather all changes)
   - git reset --hard origin/master (go back to current place/commit on origin/master)
-* Between git fetch and git pull, git fetch is the safe way to check out what is happening in the remote repo
+- Between git fetch and git pull, git fetch is the safe way to check out what is happening in the remote repo
 
-* [Git File Sync Issue Troubleshooting](https://stackoverflow.com/questions/50335447/git-says-there-are-changes-but-there-are-none)
+- [Git File Sync Issue Troubleshooting](https://stackoverflow.com/questions/50335447/git-says-there-are-changes-but-there-are-none)
   - `git rev-parse HEAD` - Check current commit hash
   - `git ls-tree -r <commit-hash>` - Check ALL files associated with that particular commit
   - `git update-index --assume-unchanged` - Checks index of what you are building into your next commit (starts off as fresh and not different from previous commit) \* This is the "index copy", which can be overwritten, unlike the "commit copy" of the file(s)
@@ -964,151 +1108,6 @@ Padding/Margin/Layout
   </pre>
 </details>
 </comment>
-
- <details><summary><h1>UX Design Project Notes</h1></summary>
-  <section><img src="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/7r-T1J09Sy6_k9SdPbsuXA_98483f0b053e4b7696bd9f02c59b3fdd_Screen-Shot-2021-03-02-at-2.05.20-PM.png?expiry=1667692800000&hmac=bDqGqL1PxpZhI-vuuCHgc5qjcU1miqMgPkGD3GaeCus" style="width: 70%;" alt="Product Development Life Cycle: Brainstorm > Define > Design > Test > Launch > Repeat">
-  <h2>Characteristics of a Good UX</h2>
-  <p>
-   <ul>
-    <li>Usable: it means the design, structure, and purpose of the product is clear and easy to use. As you evaluate a product for usability, you can ask questions like: Is everything in the design easy to find? Is the design’s functionality easy to understand? Can users accomplish specific tasks within the design?</li>
-    <li>Equitable: it means a design is helpful to people with diverse abilities and backgrounds. In other words, the product’s design addresses the needs of a diverse audience and ensures a high-quality experience is delivered to all users regardless of background, gender, race, or ability. Equity means providing people with the tools they need to accomplish their goals and support improved quality of life. Are the needs of a diverse group of users considered? Does the product’s design address the needs of traditionally underrepresented and excluded groups?</li>
-    <li>Enjoyable: it means the design delights the user. The design reflects what the user may be thinking or feeling and creates a positive connection with them. Are there aspects of the design that consider the user’s feelings?  Does the design inspire delight in the user? Does the design keep the user engaged throughout their experience?</li>
-    <li>Useful: that means it solves user problems. In other words, the design intentionally solves a user problem that the designer has identified. It’s important to note that, while similar, useful and usable have different meanings. Does the design add value to the user’s experience? Does the design solve a problem for the user? Does the design help the user achieve a specific goal?</li>
-   </ul>
-   <dl>
-    <dt>Assets:</dt><dd>Everything from the text and images to the design specifications, like font style, color, size, and spacing</dd>
-    <dt>Information architecture:</dt><dd> The framework of a website or how it’s organized, categorized, and structured</dd>
-    <dt>Prototype:</dt><dd>An early model of a product that demonstrates functionality</dd>
-    <dt>UX research:</dt><dd>Understand users and learn about their backgrounds, demographics, motivations, pain points, emotions, and life goals</dd>
-    <dt>Wireframe:</dt><dd>An outline or a sketch of a product or a screen</dd>
-   </dl>
-  </p>
-  <p>
-   <a href="https://design.google/library/good-design/">Article about Good Design</a>
-  </p></section>
-  <section><h2>Get to Know the User</h2>
-   <h3>Questions to ask about users:</h3>
-   <p>
-    <ul>
-     <li>Do my users have impairments or disabilities to consider–whether temporary, situational, or permanent?</li>
-     <li>How familiar are my users with technology?</li>
-     <li>How are my users accessing the product or service?</li>
-     <li>Where and when are my users accessing the product or service?</li>
-     <li>Have I considered all my potential users?</li>
-    </ul>
-   </p>
-   <p><a href="https://careerfoundry.com/en/blog/ux-design/the-importance-of-user-research-and-how-to-do-it/">What is user research, and what's its purpose?</a></p>
-   <h3>Designing Cross-Platform Experiences</h3>
-   <ul>
-    <li>
-    <p>A platform is the medium that users experience your product on. Some common platforms are:</p>
-    <ul>
-     <li>Desktop computers</li>
-     <li>Laptop computers</li>
-     <li>Mobile phones</li>
-     <li>Tablets</li>
-     <li>Wearables, like smart watches</li>
-     <li>TVs</li>
-     <li>Smart displays</li>
-    </ul>
-    </li>
-    <li>Concerns for these experiences would be Screen Size, Interaction, Content layout and Functionality</li>
-   </ul>
-  </section>
-  <section class="designSprints week3">
-  <article>
-  <h3>Terms</h3>
-    <dl>
-     <dt>Accessibility:</dt><dd>The design of products, devices, services, or environments for people with disabilities</dd>
-     <dt>Alternative text (alt text):</dt><dd>Text that helps translate something visual, such as an image or graph, into a description that can be read by screen readers</dd>
-     <dt>Brand Identity:</dt><dd>The visual appearance and voice of a company</dd>
-     <dt>Call-to-action (CTA):</dt><dd>A visual prompt that tells the user to take action, like to click a button</dd>
-     <dt>Color modification:</dt><dd>Features that increase the contrast of colors on a screen, like high-contrast mode or dark mode</dd>
-     <dt>Design Sprint:</dt><dd>A time-bound process, with five phases typically spread over five full 8-hour days. The goal of design sprints is to answer critical business questions through designing, prototyping, and testing ideas with users. Are there many potential solutions to your design challenge? Does a design challenge require people from cross-functional teams to weigh in? Is the design challenge's scope wide enough for a sprint?</dd>
-     <dt>Design Thinking:</dt><dd>A UX design framework that focuses on the user throughout all five phases: empathize, define, ideate, prototype, and test.</dd>
-     <dt>Sprint Brief:</dt><dd>A document that you share with all your attendees to help them prepare for the sprint</dd>
-    </dl>
-  </article>
-  <article>
-   <h3>Five phases of design sprints</h3>
-   <p>Understand > Ideate > Decide > Prototype > Test</p>
-   <p>Each phase lasts a day</p>
-   <p>Resource: <a href="https://designsprintkit.withgoogle.com/">Google Design Sprint Kit</a></p>
-  </article>
-  <article>
-   <h3>Plan Design Sprints</h3>
-   <p>User research > Call in the experts > Find the right space > Gather supplies > Establish sprint rules > Plan introductions > Post-sprint planning</p>
-  </article>
-  <article>
-   <h3>Sprint Brief</h3>
-   <p>A sprint brief is shared with attendees and includes the following:</p>
-   <ul>
-    <li>
-     <p>Sprint challenge/Challenge item</p>
-     <ul>
-      <li>What is the challenge that you want to solve in the sprint?</li>
-      <li>
-       <p>Four things that make a great challenge:</p>
-       <ul>
-        <li>Challenge is something real the team needs to deliver</li>
-        <li>It's stated in an inspiring way - something to solve for</li>
-        <li>It's clear/concise</li>
-        <li>It includes a time frame</li>
-       </ul>
-      </li>
-     </ul>
-    </li>
-    <li><p>Key Deliverables</p><p>A few tips for deliverables</p>
-     <ul>
-      <li>Aim for the highest quality deliverables possible. Polished digital work, videos, and interactive prototypes are better than sketches.</li>
-      <li>List all platforms that need to be designed for - e.g., web, mobile, tablet/physical product + website/environment</li>
-     </ul>
-    </li>
-    <li><p>Logistics</p>
-     <ul>
-      <li>Where?</li>
-      <li>When?</li>
-      <li>Who? (list at end of doc - bookmark)</li>
-      <li>Sprint Leader (established before brief created)</li>
-     </ul>
-    </li>
-    <li>Approvers: People who sign off before launch (ex. internal stakeholders, etc.)</li>
-    <li><p>Resources:</p>
-     <ul>
-      <li>For short term sprints: Assignment development team, if any (ex. engineering team)</li>
-      <li>For long-term / vision sprints: Plan to secure resources
-     </ul>
-    </li>
-    <li><p>Project Overview</p>
-     <ol>
-      <li>Current state of project - what's been created already?</li>
-      <li>Roadblocks - what stands in our way?</li>
-      <li>Early wins, if any. - Has our team demonstrated any wins or learnings in the space already?</li>
-      <li>Estimated launch plan - when is projected launch for piece being designed? What is this likely to look like at launch? (Include list in challenge statment as well)</li>
-     </ol>
-    </li>
-    <li>5 Day Schedule: Specific hour by hour even to the 5 minute increment and should include break times</li>
-   </ul>
-  </article>
-  </section>
-  <h2>Define Research Goals / Questions</h2>
-  <p>
-    <ol><li>You should have a prompt that guides your research - i.e. Sharpen prompt. Think through your audience and identify their unique needs/problems and how your product might solve these problems. Therefore, assure they are clear and focused on the problem your portfolio project is aiming to solve. <strong>You should have 2-5 research goals drafted</strong>.</li><li>Define your target audience: Include a diverse but targeted group to get the best data. <strong>Note 3-6 different characteristics</strong>. Think about demographics like location, age and career.</li><li>Write interview questions: These questions are the foundation for feedback later on. These can be adjusted as the portfolio project progresses. <strong>Draft 4-7 questions and be sure to follow best practices and avoid biases</strong>.</li></ol></p>
- 
- <h2>Build Empathy</h2>
- <p>
-  Use questionnaire or some form of gathering information to acquire data on pain points and interests of target audience.
- </p>
- 
- <h2>Create Personas</h2>
- <p>
-    <ol>
-     <li>Understand the project scenario and customer types.</li>
-     <li>Create personas based on a combination of attributes from a group of users with similar needs. Personas should be representative of key user groups.</li>
-     <li>Consider the following while creating personas<ol><li><strong>Demographic information:</strong> Did the demographic information match the persona characteristics given in the scenario?</li><li><strong>Quote:</strong> Were you able to imagine a quote that is relevant to the persona and the background you’ve built for them?</li><li><strong>Goals/frustrations:</strong> Were you able to align the goals and frustrations with the persona and the activity scenario?</li><li><strong>Brief story/scenario:</strong> Were you able to give more information about the persona, tying in their goals and frustrations, as well as their quote?</li><li><strong>Image:</strong> Did you include a picture or avatar representing the personas for your activity?</li></ol></li>
-    </ol>
- </p>
- </details>
 
 ## Purpose of Meetings
 
