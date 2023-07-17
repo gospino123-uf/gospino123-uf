@@ -191,11 +191,12 @@
 
 <strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
 
-### JS Bookmarkets
+### JS Bookmarklets
 
 - `javascript: document.designMode="on"; void 0;` - Lets everything become editable. Click and type.
 - `javascript: document.querySelectorAll("*").forEach(element => element.style.background="rgb(0 0 0 / 10%)");` - Check bounds and distance b/w elements
 - `javascript: document.querySelector("SELECTOR").click();` - Customizable: Activate event quickly
+- `document.cookie = 'cookie_key=; Max-Age=0; path = /; domain=.domain.ending';` - Remove specific cookie
 
 ## ITSM :chart_with_upwards_trend: Standards
 
@@ -296,6 +297,7 @@ _Urgency: Based on time until significant impact_
 | A | Arc (7 params) | A rx ry x-axis-rotation large-arc-flag sweep-flag x y<br>(or)<br>a rx ry x-axis-rotation large-arc-flag sweep-flag dx dy |
 
 <br><b>Notes:</b>
+
 <ul>
 <li>Uppercase letters are absolute. Lowercase letters are relative.</li>
 <li>Commas and spaces are optional (relatively).</li>
