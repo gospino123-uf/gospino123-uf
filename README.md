@@ -587,6 +587,8 @@ _Urgency: Based on time until significant impact_
 <details><summary>Development</summary>
  
 * [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/) 
+* [General Skills to Develop Along Path](https://www.geeksforgeeks.org/10-things-you-should-know-as-a-web-developer/)
+* [Difference b/w Software,Web,App Development](https://www.geeksforgeeks.org/difference-between-software-development-web-development-and-app-development/)
 * [Diff Checker](https://www.diffchecker.com/)
 * Regex and Regex tests: [Regex 101](https://regex101.com/) or [Regexr](https://regexr.com/)
     * Examples of possibly helpful syntax: (<!) syntax is negative lookbehind and (?!) syntax is negative lookahead
