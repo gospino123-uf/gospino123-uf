@@ -196,7 +196,10 @@
 - `javascript: document.designMode="on"; void 0;` - Lets everything become editable. Click and type.
 - `javascript: document.querySelectorAll("*").forEach(element => element.style.background="rgb(0 0 0 / 10%)");` - Check bounds and distance b/w elements
 - `javascript: document.querySelector("SELECTOR").click();` - Customizable: Activate event quickly
-- `document.cookie = 'cookie_key=; Max-Age=0; path = /; domain=.domain.ending';` - Remove specific cookie
+- `javascript: document.cookie = 'cookie_key=; Max-Age=0; path = /; domain=.domain.ending';` - Remove specific cookie
+- `javascript: window.scrollTo({ left: 0, top: document.body.scrollHeight, behavior: "smooth" });` - Scroll to bottom smoothly
+  - window.scrollTo(0, document.body.scrollHeight || document.documentElement.scrollHeight); - 2015 cross-platform version
+- `javascript: window.scrollTo({ left: 0, top: 0, behavior: "smooth" });` - Scroll to top smoothly
 
 ## ITSM :chart_with_upwards_trend: Standards
 
