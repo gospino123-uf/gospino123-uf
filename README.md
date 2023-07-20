@@ -688,6 +688,22 @@ _Urgency: Based on time until significant impact_
 - [Tracking Device Orientation](https://analytical42.com/2016/track-device-orientation-changes-google-analytics/)
 - [Google Analytics Alternative: Matomo (100% data ownership)](https://matomo.org/)
 - [GitLab - DevSecOps Platform: Alternative to GitHub](https://about.gitlab.com/)
+- [QRCode Monkey - QR code generator](https://www.qrcode-monkey.com/)
+- [Google Analytics Campaign URL Builder](https://ga-dev-tools.google/campaign-url-builder/)
+
+#### General GA Campaign URL Builder Process
+
+1. Decide on main campaign
+2. (optional) Use campaign name and year for naming convention
+3. Input URL to be used in tracking
+4. Use identifier for ID (see Step 2)
+5. Identify source (important)
+6. (optional) Reference marketing medium (or use source name)
+7. (optional) Campaign name can be the ID (see Step 4) if the ID is readable
+8. (optional) Fill out other fields
+9. Record the Generated Campaign URL
+10. (optional) Use Generated Campaign URL on a QR code generator page to tie the campaign to a QR code
+11. (optional - QR code) Decide/use pixel size based on medium (print/web/etc)
 
 ### Practice
 
