@@ -7,6 +7,7 @@
 - [Naming Conventions](#naming-conventions-clipboard-personal-preferences)
 - [Terminology](#terminology-blue_book)
 - [Shortcuts](#shortcuts-shipit)
+- [JS Bookmarklets](#js-bookmarklets)
 - [ITSM Standards](#itsm-chart_with_upwards_trend-standards)
 - [Asana Tracking Standards](#asana-)
 - [Personal UX Standards](#personal--ux-standards)
