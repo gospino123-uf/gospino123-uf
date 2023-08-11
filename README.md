@@ -194,13 +194,15 @@
 
 ### JS Bookmarklets
 
-- `javascript: document.designMode="on"; void 0;` - Lets everything become editable. Click and type.
-- `javascript: document.querySelectorAll("*").forEach(element => element.style.background="rgb(0 0 0 / 10%)");` - Check bounds and distance b/w elements
-- `javascript: document.querySelector("SELECTOR").click();` - Customizable: Activate event quickly
-- `javascript: document.cookie = 'cookie_key=; Max-Age=0; path = /; domain=.domain.ending';` - Remove specific cookie
-- `javascript: window.scrollTo({ left: 0, top: document.body.scrollHeight, behavior: "smooth" });` - Scroll to bottom smoothly
-  - window.scrollTo(0, document.body.scrollHeight || document.documentElement.scrollHeight); - 2015 cross-platform version
-- `javascript: window.scrollTo({ left: 0, top: 0, behavior: "smooth" });` - Scroll to top smoothly
+|          Action          |                                                                                                       Script                                                                                                       |                                                                Description                                                                 |
+| :----------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
+|     element-bkgd-5%      |                                                   `javascript: document.querySelectorAll("*").forEach(element => element.style.background="rgb(0 0 0 / 10%)");`                                                    |                                                   Check bounds and distance b/w elements                                                   |
+|      design-mode-on      |                                                                                  `javascript: document.designMode="on"; void 0;`                                                                                   |                                                  Make document editable. Click and type.                                                   |
+|   get-inner-dimensions   |                                                                 `` javascript: void(0); alert(`Width: ${innerWidth}\nHeight: ${innerHeight}`); ``                                                                  |                                                         Get inner width and height                                                         |
+|      scroll-to-top       |                                                                      `javascript: window.scrollTo({ left: 0, top: 0, behavior: "smooth" });`                                                                       |                                                           Scroll to top smoothly                                                           |
+|    _scroll-to-bottom_    | A: `javascript: window.scrollTo({ left: 0, top: document.body.scrollHeight, behavior: "smooth" });`<br>B: `javascript: window.scrollTo(0, document.body.scrollHeight \|\| document.documentElement.scrollHeight);` |                               Scroll to bottom smoothly<br>Version B is for the 2015 cross-platform version                                |
+|  remove-specific-cookie  |                                                             `javascript: document.cookie = 'cookie_key=; Max-Age=0; path = /; domain=.domain.ending';`                                                             | CUSTOMIZABLE: Remove a specific cookie from your browser<br>You must replace the `cookie_key` and `.domain.ending` with the correct values |
+| activate-targeted-events |                                                                             `javascript: document.querySelector("SELECTOR").click();`                                                                              |                                             CUSTOMIZABLE: Activate targeted events quickly<br>                                             |
 
 ## ITSM :chart_with_upwards_trend: Standards
 
@@ -569,6 +571,7 @@ _Urgency: Based on time until significant impact_
 - [Future: Creative Asset Review Tool](https://govisually.com/)
 - [Text Spacing and Accessibility](https://www.w3.org/WAI/WCAG21/Understanding/text-spacing.html)
 - [Wireframes in XD](https://www.adobe.com/products/xd/learn/design/productivity/how-to-wireframe-xd.html)
+- [Fun Bad UX Example](https://how-i-experience-web-today.com/)
 </details>
 
 #### Grace Recommendations
