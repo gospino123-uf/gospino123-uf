@@ -204,6 +204,8 @@
 |  remove-specific-cookie  |                                                             `javascript: document.cookie = 'cookie_key=; Max-Age=0; path = /; domain=.domain.ending';`                                                             | CUSTOMIZABLE: Remove a specific cookie from your browser<br>You must replace the `cookie_key` and `.domain.ending` with the correct values |
 | activate-targeted-events |                                                                             `javascript: document.querySelector("SELECTOR").click();`                                                                              |                                             CUSTOMIZABLE: Activate targeted events quickly<br>                                             |
 
+<strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
+
 ## ITSM :chart_with_upwards_trend: Standards
 
 ### Workflow 🥚:hatching_chick::hatched_chick::baby_chick: Process
