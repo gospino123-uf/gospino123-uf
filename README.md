@@ -89,7 +89,7 @@
        <a href="https://knowledge.technolutions.com/hc/en-us/sections/360005004752-Getting-Started-with-Portals" target="_blank">Getting Started w/ Portals</a>
       </li>
       <li>
- <details><summary>Questions to ask client when building portal</summary><ol><li><p>What is the overall goal of the portal?</p></li><li><p>Who are its users</p></li><li><p>What actions must the users take within the portal?</p></li><li><p>What must a user see on the portal?</p></li></ol></details>
+ <details><summary>Questions to ask client when building portal</summary><ol><li>What is the overall goal of the portal?</li><li>Who are its users?</li><li>What actions must the users take within the portal?</li><li>What must a user see on the portal?</li></ol></details>
       </li>
     </ul>
   </p>
@@ -337,11 +337,11 @@ _Urgency: Based on time until significant impact_
 
 [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/)
 
-### WCAG for Designers Infographic
+#### WCAG for Designers Infographic
 
 <a href="http://webaim.org/resources/designers/"><img src="http://webaim.org/resources/designers/media/designers.svg" alt="Web Accessibility for Designers infographic with link to text version at WebAIM.org"></a>
 
-### Colors
+#### Colors
 
 - [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)<br> _Manual checks for color contrast issues_
   - [JSON Color Checker for #FFF White on #07317B Dark Blue](https://webaim.org/resources/contrastchecker/?fcolor=FFFFFF&bcolor=07317B&api)<br> _**UF Blue**_
@@ -359,8 +359,6 @@ _Urgency: Based on time until significant impact_
 - [Cross Browser Environments and Screenreaders](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Accessibility#screenreader_testing)<br> _Considerations for accessibility-first development and screenreaders_
 - [PDF Accessibility from WebAIM](https://webaim.org/techniques/acrobat/acrobat)
 - [Helpful Walkthrough for InDesign Accessibility Tools and Use](https://etsupport.freshdesk.com/support/solutions/articles/4000160733-accessibility-tools-in-adobe-indesign) & [Adobe InDesign Accessibility Documentation](https://www.adobe.com/accessibility/products/indesign.edu.html)
-
-* [Decent Article on Accessibility](https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939)
 
 ### Trainings
 
@@ -537,21 +535,14 @@ _Urgency: Based on time until significant impact_
 
 ### Design
 
-| Tools | Inspiration | Understanding<br/>Developers | Further Reading | Certification |
-| :---: | :---------: | :--------------------------: | :-------------: | :-----------: |
-
-|
-|
-| [Understanding HTML Heading Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)<br/>[Line Typography Vocab and Visuals](https://css-tricks.com/how-to-tame-line-height-in-css/)
-|
-| |
+| Tools | Inspiration |                                                                                           Understanding<br/>Developers                                                                                            | Further Reading | Certification |
+| :---: | :---------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :-----------: |
+|       |             | [Understanding HTML Heading Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)<br/>[Line Typography Vocab and Visuals](https://css-tricks.com/how-to-tame-line-height-in-css/) |                 |               |
 
 <details><summary>Design</summary>
 
--
 - [Image Optimization Perspective](https://www.jimdo.com/blog/optimize-website-images-for-better-design-seo/)<br> _Info on optimizing images for web_
 - [Color Palette Generator\*](https://coolors.co)<br> _Tool to randomize a color palette_
-- [Branding Colors](https://branition.com/colors)<br> _Tool to find branding color palettes_
 - [Expand Palette on One Color](https://mycolor.space/)<br> _Tool to expand palette based on input_
 - [Color Mixer](https://colordesigner.io/color-mixer)<br> _Tool for mixing colors_
 - [Behance](https://www.behance.net/)<br> _Creative network for showcasing and discovering creative work_
@@ -599,36 +590,37 @@ _Urgency: Based on time until significant impact_
 
 <details><summary>Development</summary>
  
-* [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/) 
-* [General Skills to Develop Along Path](https://www.geeksforgeeks.org/10-things-you-should-know-as-a-web-developer/)
-* [Difference b/w Software,Web,App Development](https://www.geeksforgeeks.org/difference-between-software-development-web-development-and-app-development/)
-* [Diff Checker](https://www.diffchecker.com/)
-* Regex and Regex tests: [Regex 101](https://regex101.com/) or [Regexr](https://regexr.com/)
-    * Examples of possibly helpful syntax: (<!) syntax is negative lookbehind and (?!) syntax is negative lookahead
-* [Yellow Lab Tools - Page Testing](https://yellowlab.tools/)
-* [HTML URL Encoding Reference](https://www.w3schools.com/tags/ref_urlencode.ASP)<br> _Possible for API calls with input text_
-* [Squoosh](https://squoosh.app/)<br> _Make image files smaller so they load faster (not necessary if using Image Optimizer on macOS)_
-* [Lorem Picsum](https://picsum.photos/)<br> _Populate with random image with specified measurements_
-* [Image Optimization Perspective](https://www.jimdo.com/blog/optimize-website-images-for-better-design-seo/)<br> _Info on optimizing images for web_
-* [Image Responsive Rendering](https://www.dofactory.com/html/img/sizes)
-* [Git Stash Explained](https://www.freecodecamp.org/news/git-stash-explained/)<br> _Quick code/example on stash use_ 
-* [Remove Git Branches not on Remote](https://stackoverflow.com/posts/59912825/revisions)
-* [Reset and sync local repository](https://www.ocpsoft.org/tutorials/git/reset-and-sync-local-respository-with-remote-branch/)
-* [Campaign URL Builder](https://ga-dev-tools.web.app/campaign-url-builder/)
-* [QR Code Generator](https://www.qrcode-monkey.com/)
-* [Approximate Hex Color to Filter for SVGs](https://codepen.io/sosuke/pen/Pjoqqp)<br> _Inaccurate but free approximation for color to filter use on SVGs_
-* [Simple YouTube SVG Explanation](https://www.youtube.com/watch?v=9qen5CKjUe8)
-* [Styling svg use Content](https://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css/)<br> _Tips on using svg with css, specifically using svg use_
-* [No Line Break b/w Text and svg](https://stackoverflow.com/questions/46833758/no-line-break-between-text-and-svg)
-* [Scaling svg's](https://css-tricks.com/scale-svg/)
-* [Fixing Focus Outlines](https://stackoverflow.com/questions/57605812/why-a-tags-set-as-displayblock-have-irregular-focus-outline-shape)<br> _Correct the blob shape on focus outlines_
-* [Favicons and OS Differences](https://sympli.io/blog/heres-everything-you-need-to-know-about-favicons-in-2020/)
-* [Favicon Cheat Sheet](https://gist.github.com/leommoore/6415005)
-* [Pug Beginners Guide](https://www.sitepoint.com/a-beginners-guide-to-pug/)
-* [JS Focusevent](https://o7planning.org/12309/javascript-focusevent)
-* [Interactive Review of CSS Selectors](https://flukeout.github.io/)
-* [CSS Tricks Guide: Table HTML & CSS](https://css-tricks.com/complete-guide-table-element/)
-* [Curved Text Along a Path](https://css-tricks.com/snippets/svg/curved-text-along-path/)
+- [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/) 
+- [General Skills to Develop Along Path](https://www.geeksforgeeks.org/10-things-you-should-know-as-a-web-developer/)
+- [Difference b/w Software,Web,App Development](https://www.geeksforgeeks.org/difference-between-software-development-web-development-and-app-development/)
+- [Diff Checker](https://www.diffchecker.com/)
+- Regex and Regex tests: [Regex 101](https://regex101.com/) or [Regexr](https://regexr.com/)
+    - Examples of possibly helpful syntax: (<!) syntax is negative lookbehind and (?!) syntax is negative lookahead
+- [Yellow Lab Tools - Page Testing](https://yellowlab.tools/)
+- [HTML URL Encoding Reference](https://www.w3schools.com/tags/ref_urlencode.ASP)<br> _Possible for API calls with input text_
+- [Squoosh](https://squoosh.app/)<br> _Make image files smaller so they load faster (not necessary if using Image Optimizer on macOS)_
+- [Lorem Picsum](https://picsum.photos/)<br> _Populate with random image with specified measurements_
+- [Image Optimization Perspective](https://www.jimdo.com/blog/optimize-website-images-for-better-design-seo/)<br> _Info on optimizing images for web_
+- [Image Responsive Rendering](https://www.dofactory.com/html/img/sizes)
+- [Git Stash Explained](https://www.freecodecamp.org/news/git-stash-explained/)<br> _Quick code/example on stash use_ 
+- [Remove Git Branches not on Remote](https://stackoverflow.com/posts/59912825/revisions)
+- [Reset and sync local repository](https://www.ocpsoft.org/tutorials/git/reset-and-sync-local-respository-with-remote-branch/)
+- [Campaign URL Builder](https://ga-dev-tools.web.app/campaign-url-builder/)
+- [QR Code Generator](https://www.qrcode-monkey.com/)
+- [Approximate Hex Color to Filter for SVGs](https://codepen.io/sosuke/pen/Pjoqqp)<br> _Inaccurate but free approximation for color to filter use on SVGs_
+- [Simple YouTube SVG Explanation](https://www.youtube.com/watch?v=9qen5CKjUe8)
+- [Styling svg use Content](https://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css/)<br> _Tips on using svg with css, specifically using svg use_
+- [No Line Break b/w Text and svg](https://stackoverflow.com/questions/46833758/no-line-break-between-text-and-svg)
+- [Scaling svg's](https://css-tricks.com/scale-svg/)
+- [Fixing Focus Outlines](https://stackoverflow.com/questions/57605812/why-a-tags-set-as-displayblock-have-irregular-focus-outline-shape)<br> _Correct the blob shape on focus outlines_
+- [Favicons and OS Differences](https://sympli.io/blog/heres-everything-you-need-to-know-about-favicons-in-2020/)
+- [Favicon Cheat Sheet](https://gist.github.com/leommoore/6415005)
+- [Pug Beginners Guide](https://www.sitepoint.com/a-beginners-guide-to-pug/)
+- [JS Focusevent](https://o7planning.org/12309/javascript-focusevent)
+- [Interactive Review of CSS Selectors](https://flukeout.github.io/)
+- [CSS Tricks Guide: Table HTML & CSS](https://css-tricks.com/complete-guide-table-element/)
+- [Curved Text Along a Path](https://css-tricks.com/snippets/svg/curved-text-along-path/)
+- [Oopsie: Remove sensitive data from repo - GitHub](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository) and [Stackoverflow responses about removing with git rebase -i \<commit_id\>](https://stackoverflow.com/questions/34746245/delete-and-completely-remove-the-commit-from-git-history)
 
 - [Web Accessible Nav Types from W3](https://www.w3.org/TR/wai-aria-practices/examples/menubar/menubar-navigation.html)<br> Explore for what is needed at time
 - [Accessible Website from Perkins School for the Blind](https://www.perkins.org/)
@@ -722,10 +714,11 @@ _Urgency: Based on time until significant impact_
 
 ### Code Sandboxes
 
-- https://jsfiddle.net/
+- https://playcode.io/new \[Current Favorite\]
 - https://codepen.io/pen
 - https://codesandbox.io/s/
 - https://vscode.dev/
+- https://replit.com
 
 </details>
 
@@ -886,11 +879,11 @@ Git (WIP)
 
 <details><summary>Everything (mostly) Git</summary>
   
- * `git cherry-pick`
-    * `git cherry-pick commit-SHA` _Merges a particular commit_
-    * `git cherry-pick first-commit-SHA-in-range^..last-commit-SHA-in-range` _Merges a range of commits including the first in range_
-      * In `git cherry-pick A..B`, A should be older than B
-    * `git cherry-pick first-commit-SHA-in-range..last-commit-SHA-in-range` _Merges a range of commits **NOT** including the first in range_
+ - `git cherry-pick`
+    - `git cherry-pick commit-SHA` _Merges a particular commit_
+    - `git cherry-pick first-commit-SHA-in-range^..last-commit-SHA-in-range` _Merges a range of commits including the first in range_
+      - In `git cherry-pick A..B`, A should be older than B
+    - `git cherry-pick first-commit-SHA-in-range..last-commit-SHA-in-range` _Merges a range of commits **NOT** including the first in range_
 
 - [Git Stash Explained](https://www.freecodecamp.org/news/git-stash-explained/)
 - Stash specific file: `git stash push -m "message" <file>`
@@ -922,7 +915,7 @@ Git (WIP)
 - [Git File Sync Issue Troubleshooting](https://stackoverflow.com/questions/50335447/git-says-there-are-changes-but-there-are-none)
   - `git rev-parse HEAD` - Check current commit hash
   - `git ls-tree -r <commit-hash>` - Check ALL files associated with that particular commit
-  - `git update-index --assume-unchanged` - Checks index of what you are building into your next commit (starts off as fresh and not different from previous commit) \* This is the "index copy", which can be overwritten, unlike the "commit copy" of the file(s)
+  - `git update-index --assume-unchanged` - Checks index of what you are building into your next commit (starts off as fresh and not different from previous commit) - This is the "index copy", which can be overwritten, unlike the "commit copy" of the file(s)
   - You essentially have three different copies of the same file as a norm: _HEAD, index, and work-tree_
 
 Branching Procedures
