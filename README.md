@@ -623,6 +623,7 @@ _Urgency: Based on time until significant impact_
 - [Oopsie: Remove sensitive data from repo - GitHub](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository) and [Stackoverflow responses about removing with git rebase -i \<commit_id\>](https://stackoverflow.com/questions/34746245/delete-and-completely-remove-the-commit-from-git-history)
 - [Curl Examples and Flags and Virtual Environments](https://reqbin.com/req/c-skhwmiil/curl-flags-example) & Other <!-- https://jsfiddle.net/gospino123/u8bn9L6v/4/ -->
 - [Build and Test WordPress locally](https://localwp.com/)
+- [Target different parts of URL w JS](https://css-tricks.com/snippets/javascript/get-url-and-url-parts-in-javascript/)
 
 - [Web Accessible Nav Types from W3](https://www.w3.org/TR/wai-aria-practices/examples/menubar/menubar-navigation.html)<br> Explore for what is needed at time
 - [Accessible Website from Perkins School for the Blind](https://www.perkins.org/)
