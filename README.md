@@ -645,6 +645,8 @@ _Urgency: Based on time until significant impact_
 - [Fluid Typography](https://css-tricks.com/snippets/css/fluid-typography/) and [CSS clamp](https://developer.mozilla.org/en-US/docs/Web/CSS/clamp)
 - [Case Against Quicklinks NNGroup and Intranets](https://www.nngroup.com/articles/quicklinks-label-intranet/)
 - [Expandable Menu Types](https://www.nngroup.com/articles/expandable-menus/)
+- [Force Browser to Reload CSS/Styles by Changing link tag URL](https://stackoverflow.com/questions/12717993/stylesheet-not-updating-when-i-refresh-my-site)
+  - Example: `<link rel="stylesheet" type="text/css" href="/css/stylesheet.css?v=1" />`
 - [Force Reload Cached CSS/JS](https://stackoverflow.com/questions/118884/how-to-force-the-browser-to-reload-cached-css-and-javascript-files)
   - Use `Ctrl + F5` to Clear Cache Memory in a Forced Refresh
 - [Remove Unused CSS](https://css-tricks.com/how-do-you-remove-unused-css-from-a-site/)
