@@ -602,6 +602,7 @@ _Urgency: Based on time until significant impact_
 - [Lorem Picsum](https://picsum.photos/)<br> _Populate with random image with specified measurements_
 - [Image Optimization Perspective](https://www.jimdo.com/blog/optimize-website-images-for-better-design-seo/)<br> _Info on optimizing images for web_
 - [Image Responsive Rendering](https://www.dofactory.com/html/img/sizes)
+- [Source Element and Attributes](https://stackoverflow.com/questions/62199202/do-i-need-to-repeat-the-class-attribute-for-each-source-inside-a-picture-element)
 - [Git Stash Explained](https://www.freecodecamp.org/news/git-stash-explained/)<br> _Quick code/example on stash use_ 
 - [Remove Git Branches not on Remote](https://stackoverflow.com/posts/59912825/revisions)
 - [Reset and sync local repository](https://www.ocpsoft.org/tutorials/git/reset-and-sync-local-respository-with-remote-branch/)
