@@ -57,7 +57,7 @@
   <p>Websites
     <ul>
       <li><a href="https://admissions.ufl.edu">Admissions</a></li>
-      <li><a href="https://admissions.ufl.edu/blog/">Admissions Blog</a></li>
+      <li><s><a href="https://admissions.ufl.edu/blog/">Admissions Blog</a></s></li>
       <li><a href="https://em.ufl.edu">Enrollment Management</a></li>
       <li><a href="https://registrar.ufl.edu/">Registrar</a></li>
       <li><a href="https://veterans.ufl.edu/">Veterans Affairs</a></li>
