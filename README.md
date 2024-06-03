@@ -20,7 +20,7 @@
 - [11. Helpful Links](#11-helpful-links) (WIP \*\*)
 - [12. Grace Recommendations](#grace-recommendations)
 - [13. Purpose of Meetings](#purpose-of-meetings)
-<!-- - [15. Submit Request](https://form.asana.com/?k=ZFu9QU6ScnxKdQN1IwNsBg&d=348649826599179) -->
+<!-- - [14. Submit Request](https://form.asana.com/?k=ZFu9QU6ScnxKdQN1IwNsBg&d=348649826599179) -->
 
 <hr>
 
@@ -448,7 +448,7 @@ _Urgency: Based on time until significant impact_
 <details>
   <summary>
 
-## Web Accessibility
+## 10. Web Accessibility
     
   </summary>
 
