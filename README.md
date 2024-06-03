@@ -17,7 +17,7 @@
 - [8. Personal UX Standards](#8-personal--ux-standards)
 - [9. SVG](#9-svg-art)
 - [10. Web Accessibility](#10-web-accessibility)
-- [11. Grace Recommendations](#11-grace-recommendations)
+- [11. Grace Link Recommendations](#11-grace-link-recommendations)
 - [12. Helpful Links](#12-helpful-links) (WIP \*\*)
 - [13. Purpose of Meetings](#purpose-of-meetings)
 <!-- - [14. Submit Request](https://form.asana.com/?k=ZFu9QU6ScnxKdQN1IwNsBg&d=348649826599179) -->
@@ -655,7 +655,7 @@ _Urgency: Based on time until significant impact_
 <details>
   <summary>
 
-## 11. Grace Recommendations
+## 11. Grace Link Recommendations
     
   </summary>
 
