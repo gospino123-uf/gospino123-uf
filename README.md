@@ -17,8 +17,8 @@
 - [8. Personal UX Standards](#8-personal--ux-standards)
 - [9. SVG](#9-svg-art)
 - [10. Web Accessibility](#10-web-accessibility)
-- [11. Helpful Links](#11-helpful-links) (WIP \*\*)
-- [12. Grace Recommendations](#grace-recommendations)
+- [11. Grace Recommendations](#11-grace-recommendations)
+- [12. Helpful Links](#12-helpful-links) (WIP \*\*)
 - [13. Purpose of Meetings](#purpose-of-meetings)
 <!-- - [14. Submit Request](https://form.asana.com/?k=ZFu9QU6ScnxKdQN1IwNsBg&d=348649826599179) -->
 
@@ -652,6 +652,28 @@ _Urgency: Based on time until significant impact_
 
 </details>
 
+<details>
+  <summary>
+
+## 11. Grace Recommendations
+    
+  </summary>
+
+|                                                                                                                                                                     Webpage | Reason                                                                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|                                                                                     [https://app.asana.com](https://app.asana.com/-/login?u=%2F0%2Fhome%2F1199961253274167) | Project management, organization and tracking                                                                                                           |
+|                                                                                                                                           https://my.ufl.edu/ps/signon.html | Your UF Employment Related Resources                                                                                                                    |
+| https://admissions.ufl.edu/ <br>https://registrar.ufl.edu/ <br>https://ufonline.ufl.edu/ <br>https://em.ufl.edu/ <br>https://veterans.ufl.edu/ <br>https://www.sfa.ufl.edu/ | Webpages related to what we do                                                                                                                          |
+|                                                                                                                                       https://my.admissions.ufl.edu/manage/ | Slate - Customer Relationship Management                                                                                                                |
+|                    [EM Photoshelter](https://ufemc.photoshelter.com/login?ref=%2Fusr%2Finvites) <br>[UF General Photoshelter](https://ufphotography.photoshelter.com/index) | Personal bank of photos and most general photos pulled from photoshelter <br>The UF-wide photoshelter is where they should be updating with more photos |
+|                                                                                                                               https://webaim.org/resources/contrastchecker/ | Contrast Checker for ADA Compliance                                                                                                                     |
+|                                                                                                                                                   https://www.flaticon.com/ | A database of icons used in design                                                                                                                      |
+|                                                                                                                                https://www.toptal.com/designers/htmlarrows/ | Another icon database                                                                                                                                   |
+|                                                                                                                                             https://identity.ufl.edu/color/ | UF's Color Branding                                                                                                                                     |
+|                                            [https://marcom.ufl.edu/.../.../model-releases/#release](https://marcom.ufl.edu/departments/videography/model-releases/#release) | Photo Model Release Form                                                                                                                                |
+
+</details>
+
 ## Helpful Links
 
 <hr>
@@ -691,21 +713,6 @@ _Urgency: Based on time until significant impact_
 - [Wireframes in XD](https://www.adobe.com/products/xd/learn/design/productivity/how-to-wireframe-xd.html)
 - [Fun Bad UX Example](https://how-i-experience-web-today.com/)
 </details>
-
-#### Grace Recommendations
-
-|                                                                                                                                                                     Webpage | Reason                                                                                                                                                  |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|                                                                                     [https://app.asana.com](https://app.asana.com/-/login?u=%2F0%2Fhome%2F1199961253274167) | Project management, organization and tracking                                                                                                           |
-|                                                                                                                                           https://my.ufl.edu/ps/signon.html | Your UF Employment Related Resources                                                                                                                    |
-| https://admissions.ufl.edu/ <br>https://registrar.ufl.edu/ <br>https://ufonline.ufl.edu/ <br>https://em.ufl.edu/ <br>https://veterans.ufl.edu/ <br>https://www.sfa.ufl.edu/ | Webpages related to what we do                                                                                                                          |
-|                                                                                                                                       https://my.admissions.ufl.edu/manage/ | Slate - Customer Relationship Management                                                                                                                |
-|                    [EM Photoshelter](https://ufemc.photoshelter.com/login?ref=%2Fusr%2Finvites) <br>[UF General Photoshelter](https://ufphotography.photoshelter.com/index) | Personal bank of photos and most general photos pulled from photoshelter <br>The UF-wide photoshelter is where they should be updating with more photos |
-|                                                                                                                               https://webaim.org/resources/contrastchecker/ | Contrast Checker for ADA Compliance                                                                                                                     |
-|                                                                                                                                                   https://www.flaticon.com/ | A database of icons used in design                                                                                                                      |
-|                                                                                                                                https://www.toptal.com/designers/htmlarrows/ | Another icon database                                                                                                                                   |
-|                                                                                                                                             https://identity.ufl.edu/color/ | UF's Color Branding                                                                                                                                     |
-|                                            [https://marcom.ufl.edu/.../.../model-releases/#release](https://marcom.ufl.edu/departments/videography/model-releases/#release) | Photo Model Release Form                                                                                                                                |
 
 <hr>
 
