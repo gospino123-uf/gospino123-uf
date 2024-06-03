@@ -12,15 +12,14 @@
 - [3. Naming Conventions](#3-naming-conventions-clipboard-personal-preferences)
 - [4. Terminology](#4-terminology-blue_book)
 - [5. Shortcuts](#5-shortcuts-shipit)
-- [6. JS Bookmarklets](https://github.com/gospino123-uf/gospino123-uf/blob/main/README.md#js-bookmarklets)
-- [7. ITSM Standards](#6-itsm-chart_with_upwards_trend-standards)
-- [8. Asana Tracking Standards](#7-asana-)
-- [9. Personal UX Standards](#8-personal--ux-standards)
-- [10. SVG](#9-svg-art)
-- [11. Web Accessibility](#10-web-accessibility)
-- [12. Helpful Links](#11-helpful-links) (WIP \*\*)
-- [13. Grace Recommendations](#grace-recommendations)
-- [14. Purpose of Meetings](#purpose-of-meetings)
+- [6. ITSM Standards](#6-itsm-chart_with_upwards_trend-standards)
+- [7. Asana Tracking Standards](#7-asana-)
+- [8. Personal UX Standards](#8-personal--ux-standards)
+- [9. SVG](#9-svg-art)
+- [10. Web Accessibility](#10-web-accessibility)
+- [11. Helpful Links](#11-helpful-links) (WIP \*\*)
+- [12. Grace Recommendations](#grace-recommendations)
+- [13. Purpose of Meetings](#purpose-of-meetings)
 <!-- - [15. Submit Request](https://form.asana.com/?k=ZFu9QU6ScnxKdQN1IwNsBg&d=348649826599179) -->
 
 <hr>
