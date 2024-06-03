@@ -12,7 +12,7 @@
 - [3. Naming Conventions](#3-naming-conventions-clipboard-personal-preferences)
 - [4. Terminology](#4-terminology-blue_book)
 - [5. Shortcuts](#5-shortcuts-shipit)
-- [6. JS Bookmarklets](#js-bookmarklets)
+- [6. JS Bookmarklets](https://github.com/gospino123-uf/gospino123-uf/blob/main/README.md#js-bookmarklets)
 - [7. ITSM Standards](#6-itsm-chart_with_upwards_trend-standards)
 - [8. Asana Tracking Standards](#7-asana-)
 - [9. Personal UX Standards](#8-personal--ux-standards)
