@@ -1,24 +1,33 @@
 # Web Development Resources
 
-## Table of Contents (WIP)
+<details open>
+<summary>
+  
+## Table of Contents
 
-- [Training](#training-runningdash)
-- [Websites and Website Information](#lock-websites-and-website-information-key)
-- [Naming Conventions](#naming-conventions-clipboard-personal-preferences)
-- [Terminology](#terminology-blue_book)
-- [Shortcuts](#shortcuts-shipit)
-- [JS Bookmarklets](#js-bookmarklets)
-- [ITSM Standards](#itsm-chart_with_upwards_trend-standards)
-- [Asana Tracking Standards](#asana-)
-- [Personal UX Standards](#personal--ux-standards)
-- [SVG](#svg-art)
-- [Web Accessibility](#web-accessibility)
-- [Helpful Links](#helpful-links) (WIP \*\*)
-- [Grace Recommendations](#grace-recommendations)
-- [Purpose of Meetings](#purpose-of-meetings)
-<!-- - [Submit Request](https://form.asana.com/?k=ZFu9QU6ScnxKdQN1IwNsBg&d=348649826599179) -->
+</summary>
 
-\*\*WIP = Work in Progress
+- [1. Training](#1.-training-runningdash)
+- [2. Websites and Website Information](#lock-websites-and-website-information-key)
+- [3. Naming Conventions](#naming-conventions-clipboard-personal-preferences)
+- [4. Terminology](#terminology-blue_book)
+- [5. Shortcuts](#shortcuts-shipit)
+- [6. JS Bookmarklets](#js-bookmarklets)
+- [7. ITSM Standards](#itsm-chart_with_upwards_trend-standards)
+- [8. Asana Tracking Standards](#asana-)
+- [9. Personal UX Standards](#personal--ux-standards)
+- [10. SVG](#svg-art)
+- [11. Web Accessibility](#web-accessibility)
+- [12. Helpful Links](#helpful-links) (WIP \*\*)
+- [13. Grace Recommendations](#grace-recommendations)
+- [14. Purpose of Meetings](#purpose-of-meetings)
+<!-- - [15. Submit Request](https://form.asana.com/?k=ZFu9QU6ScnxKdQN1IwNsBg&d=348649826599179) -->
+
+<hr>
+
+</details>
+
+<!-- \*\*WIP = Work in Progress -->
 
 <!--
 - Accessibility
@@ -29,9 +38,12 @@
 - Map
 -->
 
-## Training :running::dash:
+<details>
+<summary>
 
-<!-- <details><summary>List of Elements</summary> -->
+## 1. Training :running::dash:
+  
+</summary>
 
 - [x] [FERPA Basics - PRV802](https://mytraining-ufshands.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D35029%26UserMode%3D0)
 - [x] [Review FERPA Information](https://registrar.ufl.edu/ferpa/)
@@ -47,62 +59,90 @@
       <br><br><br>
 - [ ] [(Optional) Get eduroam on mobile device](https://it.ufl.edu/ict/documentation/network-infrastructure/wireless/)
 
-<!-- </details> -->
+<strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
+
+<hr>
+
+</details>
+
+<details>
+<summary>
+
+## 2. :lock: Websites and Website Information :key:
+  
+</summary>
+<details>
+  <summary>Websites</summary>
+  <ul>
+    <li><a href="https://admissions.ufl.edu">Admissions</a></li>
+    <li><s><a href="https://admissions.ufl.edu/blog/">Admissions Blog</a></s></li>
+    <li><a href="https://em.ufl.edu">Enrollment Management</a></li>
+    <li><a href="https://registrar.ufl.edu/">Registrar</a></li>
+    <li><a href="https://veterans.ufl.edu/">Veterans Affairs</a></li>
+  </ul>
+
+<hr>
+
+</details>
+<details>
+  <summary>Website Information</summary>
+  <ul>
+    <li><a href="https://net-services.ufl.edu/cgi-bin/domain-info.cgi">Check UF Domain Information/Contact</a></li>
+  </ul>
+</details>
+<details>
+  <summary>Slate</summary>
+  <ul>
+    <li><a href="https://my.admissions.ufl.edu/manage/">Slate Emails</a><br><sup>For forms that create emails, include captcha to reduce spam (However, this is not ADA friendly)</sup></li>
+    <li><a href="https://ufl.test.technolutions.net/manage/">Test Slate Emails</a></li>
+    <li>
+      <article>
+        <p>You can now find two generic email templates in the Templates/ Email folder located in Slate. One version includes a placeholder for a banner image, the other version does not.</p>
+        <p>To change the image, button text, or hyperlink: simply double click on the image or button and enter in your new name (text), link text, etc.</p>
+        <p><i><cite>Michael Merritt</cite></i></p>
+        <p>Here are the links:
+          <ul>
+            <li><a href="https://my.admissions.ufl.edu/manage/deliver/mailing?id=bbb7bb38-74ff-4632-a1a1-d937b16a94df" target="_blank">Generic Email Template With Banner Image</a></li>
+            <li><a href="https://my.admissions.ufl.edu/manage/deliver/mailing?id=5fcb7b0a-11f3-4344-b552-5be57cfe65b8" target="_blank">Generic Email Template Without Banner Image</a></li>
+          </ul>
+        </p>
+      </article>
+    </li>
+    <li>
+      <a href="https://knowledge.technolutions.com/hc/en-us/sections/360005004752-Getting-Started-with-Portals" target="_blank">Getting Started w/ Portals</a>
+    </li>
+    <li>
+      <details>
+        <summary>Questions to ask client when building portal</summary>
+        <ol>
+          <li>What is the overall goal of the portal?</li>
+          <li>Who are its users?</li>
+          <li>What actions must the users take within the portal?</li>
+          <li>What must a user see on the portal?</li>
+        </ol>
+      </details>
+    </li>
+  </ul>
+</details>
+<p>Web Content Accessibility Guidelines
+  <ul>
+   <li><a href="https://www.w3.org/TR/WCAG22/">Web Content Accessibility Guidelines (WCAG) 2.2</a></li>
+   <li><a href="https://www.dms.myflorida.com/support/accessibility_statement#:~:text=All%20Florida%20State%20Government%20websites,Wide%20Web%20Consortium%20(W3C).">Florida Accessibility Statement and Section 508</a></li>
+  </ul>
+</p>
 
 <strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
 
-## :lock: Websites and Website Information :key:
+<hr>
 
-<!-- <details><summary>Collection</summary> -->
-  <p>Websites
-    <ul>
-      <li><a href="https://admissions.ufl.edu">Admissions</a></li>
-      <li><s><a href="https://admissions.ufl.edu/blog/">Admissions Blog</a></s></li>
-      <li><a href="https://em.ufl.edu">Enrollment Management</a></li>
-      <li><a href="https://registrar.ufl.edu/">Registrar</a></li>
-      <li><a href="https://veterans.ufl.edu/">Veterans Affairs</a></li>
-    </ul>
-  </p>
-  <p>Website Information
-    <ul>
-      <li><a href="https://net-services.ufl.edu/cgi-bin/domain-info.cgi">Check UF Domain Information/Contact</a></li>
-    </ul>
-  </p>
-  <p>Slate
-    <ul>
-      <li><a href="https://my.admissions.ufl.edu/manage/">Slate Emails</a><br><sup>For forms that create emails, include captcha to reduce spam (However, this is not ADA friendly)</sup></li>
-      <li><a href="https://ufl.test.technolutions.net/manage/">Test Slate Emails</a></li>
-      <li>
-        <article>
-          <p>You can now find two generic email templates in the Templates/ Email folder located in Slate. One version includes a placeholder for a banner image, the other version does not.</p>
-          <p>To change the image, button text, or hyperlink: simply double click on the image or button and enter in your new name (text), link text, etc.</p>
-          <p><i><cite>Michael Merritt</cite></i></p>
-          <p>Here are the links:
-            <ul>
-              <li><a href="https://my.admissions.ufl.edu/manage/deliver/mailing?id=bbb7bb38-74ff-4632-a1a1-d937b16a94df" target="_blank">Generic Email Template With Banner Image</a></li>
-              <li><a href="https://my.admissions.ufl.edu/manage/deliver/mailing?id=5fcb7b0a-11f3-4344-b552-5be57cfe65b8" target="_blank">Generic Email Template Without Banner Image</a></li>
-            </ul>
-          </p>
-        </article>
-      </li>
-      <li>
-       <a href="https://knowledge.technolutions.com/hc/en-us/sections/360005004752-Getting-Started-with-Portals" target="_blank">Getting Started w/ Portals</a>
-      </li>
-      <li>
- <details><summary>Questions to ask client when building portal</summary><ol><li>What is the overall goal of the portal?</li><li>Who are its users?</li><li>What actions must the users take within the portal?</li><li>What must a user see on the portal?</li></ol></details>
-      </li>
-    </ul>
-  </p>
-  <p>Web Content Accessibility Guidelines
-    <ul>
-     <li><a href="https://www.w3.org/TR/WCAG22/">Web Content Accessibility Guidelines (WCAG) 2.2</a></li>
-     <li><a href="https://www.dms.myflorida.com/support/accessibility_statement#:~:text=All%20Florida%20State%20Government%20websites,Wide%20Web%20Consortium%20(W3C).">Florida Accessibility Statement and Section 508</a></li>
-    </ul>
-  </p>
-<!-- </details> -->
-<strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
+</details>
 
-## Naming Conventions :clipboard: (Personal Preferences)
+<details>
+  <summary>
+
+## 3. Naming Conventions :clipboard: (Personal Preferences)
+    
+  </summary>
 
 - **_camelCase_** for variables, CSS classes and smaller-scoped items
   - camelCaseExample
@@ -110,14 +150,21 @@
   - ClassForCodeReuse
 - **_underscores_** for images/media
   - underscore_example.jpg
-- **_dashes_** for filenames/folders
+- **_dashes_** for filenames/folders/within CSS frameworks
   - filename-or-folder-example
 
 <strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
 
-## Terminology :blue_book:
+<hr>
 
-<!-- <details><summary>Collection</summary> -->
+</details>
+
+<details>
+  <summary>
+
+## 4. Terminology :blue_book:
+    
+  </summary>
   <ul>
     <li><b>EM</b>
      <p><b>Container</b>: Box that holds content in a mockup, prototype, webpage, etc.</p>
@@ -125,8 +172,8 @@
      <p><b>Yield</b>: Period in which students get accepted and decide on where to go to university</p>
       <p>Specialized Terms:</p>
       <ul>
-        <li>Designers
-          <details><summary><i>Example Cases for Copy</i></summary>
+        <li>
+          <details><summary>Designers</summary>
             <ul>
               <li><b>Hyphen</b>
                 <p>Never split words with hyphens</p>
@@ -174,14 +221,21 @@
       </ul>
     </li>
   </ul>
-<!-- </details> -->
-
 <!-- title: attribute of any HTML element but is most useful for interactive elements. They are usually defaulted as tooltips-->
 <!-- Tip: Add cursor: pointer; to actual a element and not just onto a state of a -->
 
 <strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
 
-## Shortcuts :shipit:
+<hr>
+
+</details>
+
+<details>
+  <summary>
+
+## 5. Shortcuts :shipit:
+    
+  </summary>
 
 |                                                   Windows                                                   |            Web Browser             |                       Xd                        |                            Zoom                            |                                         VS Code                                         |
 | :---------------------------------------------------------------------------------------------------------: | :--------------------------------: | :---------------------------------------------: | :--------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
@@ -192,7 +246,12 @@
 
 <strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
 
+<details>
+  <summary>
+
 ### JS Bookmarklets
+    
+  </summary>
 
 |          Action          |                                                                                                       Script                                                                                                       |                                                                Description                                                                 |
 | :----------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
@@ -204,11 +263,21 @@
 |  remove-specific-cookie  |                                                             `javascript: document.cookie = 'cookie_key=; Max-Age=0; path = /; domain=.domain.ending';`                                                             | CUSTOMIZABLE: Remove a specific cookie from your browser<br>You must replace the `cookie_key` and `.domain.ending` with the correct values |
 | activate-targeted-events |                                                                             `javascript: document.querySelector("SELECTOR").click();`                                                                              |                                             CUSTOMIZABLE: Activate targeted events quickly<br>                                             |
 
+</details>
 <strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
 
-## ITSM :chart_with_upwards_trend: Standards
+<hr>
 
-### Workflow 🥚:hatching_chick::hatched_chick::baby_chick: Process
+</details>
+
+<details>
+  <summary>
+
+## 6. ITSM :chart_with_upwards_trend: Standards
+    
+  </summary>
+
+### Workflow 🥚 :hatching_chick: :hatched_chick: :baby_chick: Process
 
 ```mermaid
 flowchart LR
@@ -236,7 +305,16 @@ _Urgency: Based on time until significant impact_
 
 <strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
 
-## Asana 👥
+<hr>
+
+</details>
+
+<details>
+  <summary>
+
+## 7. Asana 👥
+    
+  </summary>
 
 |       Category | Expectation                                                                                |
 | -------------: | :----------------------------------------------------------------------------------------- |
@@ -263,8 +341,16 @@ _Urgency: Based on time until significant impact_
 
 <strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
 
-## Personal 💀 UX Standards
+<hr>
 
+</details>
+
+<details>
+  <summary>
+
+## 8. Personal 💀 UX Standards
+    
+  </summary>
 <details><summary>Nav</summary>
     <p>Confirmations Needed: </p>
     <ol>
@@ -289,9 +375,20 @@ _Urgency: Based on time until significant impact_
 
 <strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
 
-## SVG :art:
+<hr>
 
-<i>Common svg commands for paths</i>:<br>
+</details>
+
+<details>
+  <summary>
+
+## 9. SVG :art:
+    
+  </summary>
+
+<details>
+  <summary><i>Common svg commands for paths</i></summary>
+
 | Letter | Command | Syntax |
 | :--: | --: | :-- |
 | M | Move To | M x y (or) m dx dy |
@@ -304,15 +401,20 @@ _Urgency: Based on time until significant impact_
 | S | Several Curve | S x2 y2, x y (or) s dx2 dy2, dx dy |
 | A | Arc (7 params) | A rx ry x-axis-rotation large-arc-flag sweep-flag x y<br>(or)<br>a rx ry x-axis-rotation large-arc-flag sweep-flag dx dy |
 
-<br><b>Notes:</b>
+</details>
 
-<ul>
-<li>Uppercase letters are absolute. Lowercase letters are relative.</li>
-<li>Commas and spaces are optional (relatively).</li>
-<li>You can also drop the command letter if the next command is the same as the previous.</li>
-<li>If you want to change svg position on hover, use the exact same number of points.</li>
-</ul>
-<i>Example</i>:<br>
+<details>
+  <summary><b>Notes</b></summary>
+  <ul>
+    <li>Uppercase letters are absolute. Lowercase letters are relative.</li>
+    <li>Commas and spaces are optional (relatively).</li>
+    <li>You can also drop the command letter if the next command is the same as the previous.</li>
+    <li>If you want to change svg position on hover, use the exact same number of points.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><i>Hover Effect Example</i></summary>
 
      ```html
      <svg viewBox="0 0 100 100">
@@ -325,15 +427,31 @@ _Urgency: Based on time until significant impact_
           d: path("M10,10 Q80,20 50,50 T90,90")
      }
      ```
+  
+</details>
 
- <p>As an alternative, a plugin like <a href="https://greensock.com/morphsvg/" target="_blank">GreenSock</a> is able to smoothly morph an svg from one to another.</p>
- <p><a href="https://lea.verou.me/2019/05/utility-convert-svg-path-to-all-relative-or-all-absolute-commands/" target="_blank">SVG Conversion Utility to ALL Relative or ALL Absolute</a><br><em>Helpful when altering SVG code</em></p>
- <p><a href="https://css-tricks.com/svg-line-animation-works/" target="_blank">SVG Animation w CSS</a><br><em>Informal precursor to using JS-based SVG animations</em></p>
- <p><a href="https://css-tricks.com/a-trick-that-makes-drawing-svg-lines-way-easier/" target="_blank">SVG Draw Line Animation w JS</a><br><em>Use JS to find path length for use in effects</p>
+<details>
+  <summary>Extra Information</summary>
+  <ul>
+    <li>As an alternative, a plugin like <a href="https://greensock.com/morphsvg/" target="_blank">GreenSock</a> is able to smoothly morph an svg from one to another.</li>
+    <li><a href="https://lea.verou.me/2019/05/utility-convert-svg-path-to-all-relative-or-all-absolute-commands/" target="_blank">SVG Conversion Utility to ALL Relative or ALL Absolute</a><br><em>Helpful when altering SVG code</em></li>
+    <li><a href="https://css-tricks.com/svg-line-animation-works/" target="_blank">SVG Animation w CSS</a><br><em>Informal precursor to using JS-based SVG animations</em></li>
+    <li><a href="https://css-tricks.com/a-trick-that-makes-drawing-svg-lines-way-easier/" target="_blank">SVG Draw Line Animation w JS</a><br><p><em>Use JS to find path length for use in effects</em></li>
+  </ul>
+</details>
 
 <strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
 
+<hr>
+
+</details>
+
+<details>
+  <summary>
+
 ## Web Accessibility
+    
+  </summary>
 
 [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/)
 
@@ -383,6 +501,8 @@ _Urgency: Based on time until significant impact_
 </details>
 
 <strong><a href="#web-development-resources"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back to Top</a></strong>
+
+<hr>
 
  <details><summary><h2>UX Design Course Notes</h2></summary>
   <section><img src="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/7r-T1J09Sy6_k9SdPbsuXA_98483f0b053e4b7696bd9f02c59b3fdd_Screen-Shot-2021-03-02-at-2.05.20-PM.png?expiry=1667692800000&hmac=bDqGqL1PxpZhI-vuuCHgc5qjcU1miqMgPkGD3GaeCus" style="width: 70%;" alt="Product Development Life Cycle: Brainstorm > Define > Design > Test > Launch > Repeat">
@@ -528,6 +648,10 @@ _Urgency: Based on time until significant impact_
     </ol>
  </p>
  </details>
+
+<hr>
+
+</details>
 
 ## Helpful Links
 
